@@ -15167,6 +15167,15 @@ MonoBehaviour:
     Prefix: {fileID: 0}
     Suffix: {fileID: 0}
     Modifiers: []
+  - RewardTemplate: {fileID: 11400000, guid: 63153610ac031b54aa4d27e365793d3f, type: 2}
+    MinCount: 1
+    MaxCount: 1
+    OverridePrefix: 0
+    OverrideSuffix: 0
+    OverrideModifiers: 0
+    Prefix: {fileID: 0}
+    Suffix: {fileID: 0}
+    Modifiers: []
 --- !u!114 &1307751193
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16202,7 +16211,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 1
+  m_MatchWidthOrHeight: 0.75
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
